@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.test" version="1.0.0">
+    <ui-application appid="com.test" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>My_first_cocos</label>
+        <icon>My_first_cocos.png</icon>
+    </ui-application>
+</manifest>

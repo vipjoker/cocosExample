@@ -1,6 +1,5 @@
 /bin
 /linux-build
-/proj.*
+
 .idea
 cocos2d
-
